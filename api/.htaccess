@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule ^details/([0-9]+)$ details.php?id=$1
+RewriteRule ^about$ about.php
+RewriteRule ^statistics$ statistics.php
+RewriteRule ^info$ info.php
+RewriteRule ^faq$ faq.php
+Options -Indexes

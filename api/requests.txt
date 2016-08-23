@@ -1,0 +1,16 @@
+Search gones with parameters
+http://www.desaparecidos.gov.br/index.php/desparecidos?dt_inicio=01/07/1990&dt_fim=18/07/2016&situacao=&uf=SP&municipio=3550308&submit=Buscar&pag=0
+
+Parameters
+dt_inicio'=01/07/1990'
+dt_fim'=18/07/2016'
+situacao'='
+uf'=SP'
+municipio'=3550308'
+
+Busca Município
+Search cities by state
+http://www.desaparecidos.gov.br/desaparecidos/application/modulo/buscaMunicipio.php
+
+Gone details
+http://www.desaparecidos.gov.br/desaparecidos/application/modulo/detalhes.php?id=2073
